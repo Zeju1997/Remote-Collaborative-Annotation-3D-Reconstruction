@@ -1,2 +1,2 @@
 # Remote-Collaborative-Annotation-3D-Reconstruction
-3D Reconstruction pipeline of the project "Shared Annotations for Remote Guidance"
+The 3D Reconstruction pipeline created within the project "Shared Annotations for Remote Guidance".
