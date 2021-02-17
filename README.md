@@ -9,11 +9,11 @@ For viewer not familiar with the Xcode and Swift, the relevant files for the pro
   <img src="video/video1.gif" width="400">
 </div>
 <div style="text-align: center">
-  <img src="video/video1.gif" width="400">
+  <img src="video/video2.gif" width="400">
 </div>
 <div style="text-align: center">
-  <img src="video/video1.gif" width="400">
+  <img src="video/video3.gif" width="400">
 </div>
 <div style="text-align: center">
-  <img src="video/video1.gif" width="400">
+  <img src="video/video4.gif" width="400">
 </div>
